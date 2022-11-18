@@ -4,6 +4,4 @@ My very first real world use for a web app that I have made. A password generato
 
 Scrimba Course - https://scrimba.com/learn/learnjavascript
 
-My Twitter - https://twitter.com/ZascuOfficial
-
 The Website Page - https://zascuofficial.github.io/Scrimba-Password_Generator/
